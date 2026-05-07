@@ -17,6 +17,7 @@ The project performs a comparative analysis of genre classification complexity u
 - Top 50 Genre Classification
 - Top 25 Genre Classification
 - Top 10 Genre Classification
+
 The main objective is to study how reducing genre complexity affects machine learning model accuracy and performance.
 
 
